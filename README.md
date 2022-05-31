@@ -1,2 +1,2 @@
 # phpmailer
-send mail using phpmailer
+send mail using phpmailer.
